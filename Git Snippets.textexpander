@@ -7,13 +7,1131 @@
 		<key>expandAfterMode</key>
 		<integer>0</integer>
 		<key>groupName</key>
-		<string>Git Snippets</string>
+		<string>Git</string>
 	</dict>
 	<key>snippetsTE2</key>
 	<array>
 		<dict>
 			<key>abbreviation</key>
+			<string>gitpa</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-03-31T11:55:48Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2013-03-31T11:56:02Z</date>
+			<key>plainText</key>
+			<string>git push --all</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>1FCF9A6D-EDFD-4B11-8F3B-4EB767D30D26</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitrev</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-03-28T20:30:10Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-28T20:42:02Z</date>
+			<key>modificationDate</key>
+			<date>2013-03-28T20:30:17Z</date>
+			<key>plainText</key>
+			<string>git revert </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>B0DF02EC-978F-45B6-8EDB-E02FD8E29AC6</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitri</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-02-04T15:16:01Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-29T14:17:57Z</date>
+			<key>modificationDate</key>
+			<date>2013-02-04T15:16:22Z</date>
+			<key>plainText</key>
+			<string>git rebase -i HEAD~</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>26</integer>
+			<key>uuidString</key>
+			<string>FC92E3C0-1538-4D1D-9A38-0E073607F9C7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitmo</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-08-22T02:39:07Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-02-02T15:58:22Z</date>
+			<key>modificationDate</key>
+			<date>2012-08-22T02:39:16Z</date>
+			<key>plainText</key>
+			<string>git merge origin/master</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>93</integer>
+			<key>uuidString</key>
+			<string>D7A838A7-D44F-40D0-9D13-1C2B9F6945D3</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitpus</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-01-25T03:17:26Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-01-25T03:19:32Z</date>
+			<key>modificationDate</key>
+			<date>2013-01-25T03:17:37Z</date>
+			<key>plainText</key>
+			<string>git pull staging master</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>F08930FF-4BA1-43A8-B91D-7801178EA9CB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitps</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-01-25T03:17:08Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-28T20:46:19Z</date>
+			<key>modificationDate</key>
+			<date>2013-01-25T03:17:20Z</date>
+			<key>plainText</key>
+			<string>git push staging master</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>33</integer>
+			<key>uuidString</key>
+			<string>ADD9D362-E3C7-4B4C-BA23-1B72345B8715</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitpp</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-01-25T03:16:47Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-28T20:29:57Z</date>
+			<key>modificationDate</key>
+			<date>2013-01-25T03:16:56Z</date>
+			<key>plainText</key>
+			<string>git push prod master</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>132</integer>
+			<key>uuidString</key>
+			<string>E55909B5-6CB0-4855-9A26-CA2BCD607866</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitcobr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-01-21T16:47:13Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-01-21T16:48:15Z</date>
+			<key>modificationDate</key>
+			<date>2013-01-21T16:47:13Z</date>
+			<key>plainText</key>
+			<string>git checkout -b %| origin/</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>B56B0605-1F56-45A8-986E-E944991A79F8</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitba</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-01-21T16:46:48Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2013-01-21T16:46:58Z</date>
+			<key>plainText</key>
+			<string>git branch --all</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>806028DD-7730-4BEE-862F-0C4A1D7A3550</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitmm</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-01-18T18:33:16Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-01-19T22:18:00Z</date>
+			<key>modificationDate</key>
+			<date>2013-01-18T18:33:16Z</date>
+			<key>plainText</key>
+			<string>git merge master</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>3</integer>
+			<key>uuidString</key>
+			<string>3CD9AC22-8359-45FF-8B7F-F926CE744870</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitbn</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-09-29T17:52:50Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-29T16:52:20Z</date>
+			<key>modificationDate</key>
+			<date>2012-09-29T17:52:55Z</date>
+			<key>plainText</key>
+			<string>git branch --no-merged</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>37</integer>
+			<key>uuidString</key>
+			<string>30BD88E5-9361-45EC-B593-745DE76C11C6</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitcot</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-16T00:30:02Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-10-16T00:31:39Z</date>
+			<key>modificationDate</key>
+			<date>2012-10-16T00:30:13Z</date>
+			<key>plainText</key>
+			<string>git checkout --track </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>65554174-5FD9-422A-96E8-63BDDD167B54</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitsts</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-14T14:53:22Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-15T16:51:10Z</date>
+			<key>modificationDate</key>
+			<date>2012-10-14T14:53:32Z</date>
+			<key>plainText</key>
+			<string>git stash save </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>5F7904A0-A42B-47BF-83C1-A97CD67A0513</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitstp</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-14T14:43:53Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2012-10-14T14:43:53Z</date>
+			<key>plainText</key>
+			<string>git stash pop </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>5FB7514D-9B3D-4C25-A574-74608534FCCB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitstd</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-14T14:43:40Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2012-10-14T14:43:49Z</date>
+			<key>plainText</key>
+			<string>git stash drop </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>704961F9-ED00-4793-A3AB-4462ADE6F839</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitls</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-13T16:31:50Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-10-13T16:51:43Z</date>
+			<key>modificationDate</key>
+			<date>2012-10-13T16:31:50Z</date>
+			<key>plainText</key>
+			<string>git log -S</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>39EB8B12-C407-426A-BD71-E3418F832CF5</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitlgr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-13T16:27:47Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-10-13T16:29:46Z</date>
+			<key>modificationDate</key>
+			<date>2012-10-13T16:27:55Z</date>
+			<key>plainText</key>
+			<string>git log --grep=</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>A59FE54E-799C-46F3-832F-BA4B027931FF</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitbmv</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-11T18:00:48Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-10-11T18:01:10Z</date>
+			<key>modificationDate</key>
+			<date>2012-10-11T18:00:58Z</date>
+			<key>plainText</key>
+			<string>git branch -m </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>A758D215-D2F0-41E8-9B28-E57687DDD367</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitpg</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-10-10T20:45:59Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-02-03T21:04:52Z</date>
+			<key>modificationDate</key>
+			<date>2012-10-10T20:47:05Z</date>
+			<key>plainText</key>
+			<string>git push github master</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>100</integer>
+			<key>uuidString</key>
+			<string>BA7B4E03-C1AD-4BC0-AC81-DE5C5718588A</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitrh</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-09-30T14:56:48Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-12T23:05:07Z</date>
+			<key>modificationDate</key>
+			<date>2012-09-30T14:56:57Z</date>
+			<key>plainText</key>
+			<string>git reset --hard </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>CBD1D8D0-0DE3-40BC-A3A0-C3FE7A528FB3</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitpom</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-09-14T20:33:44Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-02-09T16:47:28Z</date>
+			<key>modificationDate</key>
+			<date>2012-09-14T20:33:53Z</date>
+			<key>plainText</key>
+			<string>git push origin master</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>14</integer>
+			<key>uuidString</key>
+			<string>05559212-C30B-4AFB-974D-9EFBE4996CF5</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitbr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-08-02T21:49:01Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-10-11T17:59:46Z</date>
+			<key>modificationDate</key>
+			<date>2012-08-02T21:49:07Z</date>
+			<key>plainText</key>
+			<string>git branch -r</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>5</integer>
+			<key>uuidString</key>
+			<string>E820EC18-A5C2-497E-A64C-0AD4C57709C6</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gittd</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-08-02T01:14:58Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-01-30T20:56:48Z</date>
+			<key>modificationDate</key>
+			<date>2012-08-02T01:15:05Z</date>
+			<key>plainText</key>
+			<string>git tag -d </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>5</integer>
+			<key>uuidString</key>
+			<string>1C7BB4DB-0559-4AE7-B8A3-6AC9CE784E60</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>issues</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-07T16:37:22Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-29T13:00:47Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-07T16:37:22Z</date>
+			<key>plainText</key>
+			<string>https://github.com/dashboard/issues/</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>3D8813A7-0AFE-40C4-924C-B7BC19199D43</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitlo</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-29T17:30:41Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-09-14T21:10:04Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-29T17:30:47Z</date>
+			<key>plainText</key>
+			<string>git log origin/master ^master</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>11</integer>
+			<key>uuidString</key>
+			<string>1073B686-5017-4F78-8FC3-E6BFA7280AC8</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitra</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-28T21:36:01Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-30T18:10:47Z</date>
+			<key>modificationDate</key>
+			<date>2012-09-16T21:24:36Z</date>
+			<key>plainText</key>
+			<string>git remote add origin https://github.com/kwight/%|.git</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>26</integer>
+			<key>uuidString</key>
+			<string>C9AE5E62-C4AE-482D-85BB-94B4EED11A17</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitcon</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-25T16:01:11Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-30T18:11:00Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-25T16:01:41Z</date>
+			<key>plainText</key>
+			<string>cat .git/config</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>229</integer>
+			<key>uuidString</key>
+			<string>DA655CB3-B130-4AA1-952F-00D91E270110</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitcom</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-20T21:27:06Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-30T15:03:19Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-20T21:27:24Z</date>
+			<key>plainText</key>
+			<string>git checkout master</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>317</integer>
+			<key>uuidString</key>
+			<string>9EEEEC49-DD8D-4857-AE1E-CC18C933ACA8</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitf</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-18T21:20:33Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-02-02T15:53:15Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-18T21:20:33Z</date>
+			<key>plainText</key>
+			<string>git fetch </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>183</integer>
+			<key>uuidString</key>
+			<string>6F7C4F4B-E338-4BA7-B813-473A514DBDB9</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitpt</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-14T20:44:23Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-01-30T20:58:22Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-14T20:44:32Z</date>
+			<key>plainText</key>
+			<string>git push --tags </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>15</integer>
+			<key>uuidString</key>
+			<string>0249191E-AFF0-4BB9-B760-E7F40D05D482</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitstl</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-07T22:51:20Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-15T19:44:33Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-07T22:51:28Z</date>
+			<key>plainText</key>
+			<string>git stash list</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>18</integer>
+			<key>uuidString</key>
+			<string>CC438114-46F9-4D9E-BD3D-379057BD4135</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitsta</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-07T22:45:09Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-28T20:28:09Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-07T22:45:16Z</date>
+			<key>plainText</key>
+			<string>git stash apply </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>99</integer>
+			<key>uuidString</key>
+			<string>CDED283D-A33E-420A-8530-785605E8164C</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitst</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-07T22:44:54Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-29T13:42:34Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-07T22:45:03Z</date>
+			<key>plainText</key>
+			<string>git stash </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>111</integer>
+			<key>uuidString</key>
+			<string>28FC4B4B-7B5D-49E6-B339-2FEFFB7D41D7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gits</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-07T18:04:10Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-01-28T18:46:09Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-07T18:04:16Z</date>
+			<key>plainText</key>
+			<string>git show </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>16</integer>
+			<key>uuidString</key>
+			<string>A97B5591-BB63-4AB9-976B-1E47B801319E</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitmnc</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-05T19:44:29Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2012-07-05T19:46:31Z</date>
+			<key>plainText</key>
+			<string>git merge --no-ff --no-commit </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>61868F60-7EB5-46D0-BAE4-D95E15209317</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitm</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-05T19:44:21Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-30T15:03:20Z</date>
+			<key>modificationDate</key>
+			<date>2012-08-01T23:23:08Z</date>
+			<key>plainText</key>
+			<string>git merge </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>226</integer>
+			<key>uuidString</key>
+			<string>95311C4F-1F59-4191-9FDD-FCE32E054502</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitbnm</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-05T19:41:05Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-07-05T19:49:50Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-05T19:41:05Z</date>
+			<key>plainText</key>
+			<string>git branch --no-merged</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>9F0CEE48-9293-4230-BD07-169B9876E8F4</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitbm</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-05T19:40:53Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-12T22:58:19Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-05T19:40:53Z</date>
+			<key>plainText</key>
+			<string>git branch --merged </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>40</integer>
+			<key>uuidString</key>
+			<string>23875FA4-C980-4307-944F-BAA0806BE6FB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitpu</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-05T19:03:34Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-30T15:04:17Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-05T19:03:39Z</date>
+			<key>plainText</key>
+			<string>git pull </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>145</integer>
+			<key>uuidString</key>
+			<string>3892A3DF-5E67-47CC-B661-558B7AD09D08</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
 			<string>gitb</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-05T18:31:00Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-29T16:57:10Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-05T18:31:08Z</date>
+			<key>plainText</key>
+			<string>git branch </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>289</integer>
+			<key>uuidString</key>
+			<string>8A9D7F41-F6C2-42A7-B35E-5417670AF81D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitco</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-05T18:30:02Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-29T21:23:19Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-05T18:30:09Z</date>
+			<key>plainText</key>
+			<string>git checkout </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>493</integer>
+			<key>uuidString</key>
+			<string>961158FD-370A-441A-8D37-06FA462815A3</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitcob</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-05T18:21:49Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-30T14:51:04Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-05T18:29:53Z</date>
+			<key>plainText</key>
+			<string>git checkout -b </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>195</integer>
+			<key>uuidString</key>
+			<string>EB3CFD7F-DC97-40D2-8181-7D2D2A4CBCAD</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitrm</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-05T17:23:25Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-29T14:12:54Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-05T17:23:34Z</date>
+			<key>plainText</key>
+			<string>git remote -v </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>22</integer>
+			<key>uuidString</key>
+			<string>50F84A60-6EC6-4800-A54A-B4EF21ABEC7A</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitcli</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-04T15:01:01Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-07-04T15:01:19Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-04T15:01:07Z</date>
+			<key>plainText</key>
+			<string>git config --list</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>E4AB6651-B973-4213-A30D-E6AC793345C0</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitp</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-02T14:47:22Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-30T18:14:44Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-05T19:03:32Z</date>
+			<key>plainText</key>
+			<string>git push </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>294</integer>
+			<key>uuidString</key>
+			<string>4AEFEE56-34A5-4CEC-AD81-5FE166207F4F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitcl</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-02T04:16:21Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-19T22:39:53Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-02T04:16:28Z</date>
+			<key>plainText</key>
+			<string>git clone </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>71</integer>
+			<key>uuidString</key>
+			<string>259347B6-A0EF-44AD-942F-EEBA5129AC2E</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitdel</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-07-02T03:49:39Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2012-07-05T18:36:59Z</date>
+			<key>modificationDate</key>
+			<date>2012-07-02T03:49:46Z</date>
+			<key>plainText</key>
+			<string>git ls-files --deleted | xargs git rm</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>3</integer>
+			<key>uuidString</key>
+			<string>D0E896E0-9F53-43A4-8A0E-5C1E37DB3A44</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitbv</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -23,21 +1141,21 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-27T14:52:34Z</date>
+			<date>2012-07-12T21:56:44Z</date>
 			<key>modificationDate</key>
-			<date>2012-06-27T14:54:00Z</date>
+			<date>2012-07-12T15:43:12Z</date>
 			<key>plainText</key>
-			<string>git branch -v </string>
+			<string>git branch -va</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>3</integer>
+			<integer>20</integer>
 			<key>uuidString</key>
 			<string>72EF5339-A399-4D7B-A1C7-2E09493A8164</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>gitc</string>
+			<string>gitcam</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
@@ -47,15 +1165,15 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-30T00:42:32Z</date>
+			<date>2013-03-16T16:32:13Z</date>
 			<key>modificationDate</key>
-			<date>2012-06-26T21:11:22Z</date>
+			<date>2013-02-09T15:46:34Z</date>
 			<key>plainText</key>
-			<string>git commit </string>
+			<string>git commit --amend -m "%|"</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>50</integer>
+			<integer>79</integer>
 			<key>uuidString</key>
 			<string>34968842-FD6B-43E3-A732-C1AD6985FD8F</string>
 		</dict>
@@ -71,7 +1189,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-27T20:15:27Z</date>
+			<date>2013-03-29T12:56:36Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-26T20:07:50Z</date>
 			<key>plainText</key>
@@ -79,7 +1197,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>2</integer>
+			<integer>38</integer>
 			<key>uuidString</key>
 			<string>55061588-6439-4482-A923-15CB7A05F803</string>
 		</dict>
@@ -95,7 +1213,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-30T00:42:38Z</date>
+			<date>2013-03-30T15:05:58Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-29T02:40:39Z</date>
 			<key>plainText</key>
@@ -103,7 +1221,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>52</integer>
+			<integer>1732</integer>
 			<key>uuidString</key>
 			<string>5EDC7DD5-8061-4D41-AF5A-2D25E55DD390</string>
 		</dict>
@@ -119,7 +1237,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-30T16:41:39Z</date>
+			<date>2013-03-30T18:10:36Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-26T20:07:28Z</date>
 			<key>plainText</key>
@@ -127,7 +1245,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>75</integer>
+			<integer>3099</integer>
 			<key>uuidString</key>
 			<string>E3997277-0F59-4029-BD6D-4072D98D1A18</string>
 		</dict>
@@ -143,7 +1261,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-28T18:05:38Z</date>
+			<date>2013-03-29T17:09:55Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-28T14:35:59Z</date>
 			<key>plainText</key>
@@ -151,7 +1269,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>5</integer>
+			<integer>392</integer>
 			<key>uuidString</key>
 			<string>4CE1965B-3B67-4E59-BF5A-339C41F24A4A</string>
 		</dict>
@@ -167,7 +1285,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-28T19:50:10Z</date>
+			<date>2013-01-22T15:40:03Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-27T20:32:13Z</date>
 			<key>plainText</key>
@@ -175,7 +1293,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>8</integer>
+			<integer>12</integer>
 			<key>uuidString</key>
 			<string>C617CDB6-17A2-4795-A26C-7D756021A173</string>
 		</dict>
@@ -191,7 +1309,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-29T18:35:46Z</date>
+			<date>2013-03-30T14:46:37Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-28T18:08:45Z</date>
 			<key>plainText</key>
@@ -199,7 +1317,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>6</integer>
+			<integer>124</integer>
 			<key>uuidString</key>
 			<string>54145F92-ECB6-4B53-A184-3D7D6B8E1184</string>
 		</dict>
@@ -214,6 +1332,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2012-10-13T16:26:27Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-27T14:55:17Z</date>
 			<key>plainText</key>
@@ -221,7 +1341,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>uuidString</key>
 			<string>50C0F464-48E1-4854-A58A-837E1ADB87C1</string>
 		</dict>
@@ -236,6 +1356,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2013-03-15T19:44:22Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-27T14:53:40Z</date>
 			<key>plainText</key>
@@ -243,53 +1365,9 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>54</integer>
 			<key>uuidString</key>
 			<string>1A923410-E784-4835-A7B6-E6DD2E42E5B5</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>gitchb</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2012-06-27T14:50:47Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string></string>
-			<key>modificationDate</key>
-			<date>2012-06-27T14:50:54Z</date>
-			<key>plainText</key>
-			<string>git checkout -b </string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
-			<key>uuidString</key>
-			<string>A733FD28-CEA6-402C-8996-912B15B16D68</string>
-		</dict>
-		<dict>
-			<key>abbreviation</key>
-			<string>gitch</string>
-			<key>abbreviationMode</key>
-			<integer>0</integer>
-			<key>creationDate</key>
-			<date>2012-06-27T14:50:30Z</date>
-			<key>flags</key>
-			<integer>0</integer>
-			<key>label</key>
-			<string></string>
-			<key>modificationDate</key>
-			<date>2012-06-27T14:50:43Z</date>
-			<key>plainText</key>
-			<string>git checkout </string>
-			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
-			<key>uuidString</key>
-			<string>FFEE0B9A-9211-46B6-ABD7-6E08954F1BA2</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -303,7 +1381,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-30T16:42:17Z</date>
+			<date>2013-03-30T18:15:18Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-27T14:48:02Z</date>
 			<key>plainText</key>
@@ -311,7 +1389,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>6</integer>
+			<integer>335</integer>
 			<key>uuidString</key>
 			<string>9B5A3891-C32A-4798-97FA-70964EA4D8E3</string>
 		</dict>
@@ -327,7 +1405,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-29T21:34:30Z</date>
+			<date>2013-03-29T16:37:52Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-27T14:44:53Z</date>
 			<key>plainText</key>
@@ -335,7 +1413,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>9</integer>
+			<integer>117</integer>
 			<key>uuidString</key>
 			<string>31115910-C687-4994-980E-7D9351D39EC3</string>
 		</dict>
@@ -351,7 +1429,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-29T21:13:09Z</date>
+			<date>2013-03-16T16:33:02Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-27T14:44:30Z</date>
 			<key>plainText</key>
@@ -359,7 +1437,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>24</integer>
+			<integer>97</integer>
 			<key>uuidString</key>
 			<string>BBCCA298-C1A0-4828-97E0-033730DE63FC</string>
 		</dict>
@@ -375,15 +1453,15 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-30T16:43:13Z</date>
+			<date>2013-01-30T20:57:45Z</date>
 			<key>modificationDate</key>
-			<date>2012-06-30T16:46:02Z</date>
+			<date>2012-07-12T00:49:19Z</date>
 			<key>plainText</key>
-			<string>git tag -a </string>
+			<string>git tag -a %| -m "</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>22</integer>
 			<key>uuidString</key>
 			<string>851FC4D3-B23A-47AF-AF79-84A4A5C781FB</string>
 		</dict>
@@ -399,7 +1477,7 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-30T16:44:47Z</date>
+			<date>2013-01-30T20:57:40Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-30T16:39:27Z</date>
 			<key>plainText</key>
@@ -407,7 +1485,7 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>46</integer>
 			<key>uuidString</key>
 			<string>58B71451-C567-46D5-9237-E2255E956BB1</string>
 		</dict>
@@ -423,15 +1501,15 @@
 			<key>label</key>
 			<string></string>
 			<key>lastUsed</key>
-			<date>2012-06-30T00:42:44Z</date>
+			<date>2013-03-30T15:06:02Z</date>
 			<key>modificationDate</key>
-			<date>2012-06-29T00:38:03Z</date>
+			<date>2013-02-09T15:46:54Z</date>
 			<key>plainText</key>
-			<string>git commit -m "</string>
+			<string>git commit -m "%|"</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>9</integer>
+			<integer>1612</integer>
 			<key>uuidString</key>
 			<string>B6E42E82-C052-4C43-9AE0-C9ADC94AA986</string>
 		</dict>
@@ -446,6 +1524,8 @@
 			<integer>0</integer>
 			<key>label</key>
 			<string></string>
+			<key>lastUsed</key>
+			<date>2013-02-12T20:08:50Z</date>
 			<key>modificationDate</key>
 			<date>2012-06-28T18:08:58Z</date>
 			<key>plainText</key>
@@ -453,9 +1533,33 @@
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
-			<integer>0</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
 			<string>B0E7FC75-7766-47B9-80E2-DFA6E76F4A68</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>gitcp</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-06-27T14:50:30Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>lastUsed</key>
+			<date>2013-02-09T20:31:44Z</date>
+			<key>modificationDate</key>
+			<date>2012-10-17T16:30:33Z</date>
+			<key>plainText</key>
+			<string>git cherry-pick </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>34</integer>
+			<key>uuidString</key>
+			<string>FFEE0B9A-9211-46B6-ABD7-6E08954F1BA2</string>
 		</dict>
 	</array>
 </dict>
