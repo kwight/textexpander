@@ -1025,7 +1025,7 @@
 			<key>modificationDate</key>
 			<date>2012-07-05T17:23:34Z</date>
 			<key>plainText</key>
-			<string>git remote -v </string>
+			<string>git rebase master</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>useCount</key>
