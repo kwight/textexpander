@@ -7,7 +7,7 @@
 		<key>expandAfterMode</key>
 		<integer>0</integer>
 		<key>groupName</key>
-		<string>Git copy</string>
+		<string>Git</string>
 	</dict>
 	<key>snippetsTE2</key>
 	<array>
