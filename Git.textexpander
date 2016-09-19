@@ -1067,7 +1067,7 @@
 			<key>modificationDate</key>
 			<date>2015-01-22T22:02:28Z</date>
 			<key>plainText</key>
-			<string>git push --force </string>
+			<string>git push --force-with-lease </string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
